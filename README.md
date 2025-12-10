@@ -6,4 +6,4 @@ also if you ever find this and decide to use it; it SHOULD(?) work on most free 
 
 i take no credit since i didnt do any of the hard work i just put it together
 
-the only working game for it right now is sbs: loadstring(game:HttpGet("https://raw.githubusercontent.com/Zivixian/vg-hub-revival/main/gmaes/SuperBombSurvival.lua"))()
+the only working game for it right now is sbs: loadstring(game:HttpGet("https://raw.githubusercontent.com/Zivixius/vg-hub-revival/main/gmaes/SuperBombSurvival.lua"))()
