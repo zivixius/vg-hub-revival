@@ -101,7 +101,7 @@ Player.Character.LowerTorso.Root:Destroy()
 Clone.Parent = Player.Character.LowerTorso
 end 
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Zivixian/vg-hub-revival/main/library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Zivixius/vg-hub-revival/main/library.lua"))()
 local Window = Library:CreateWindow(Config, game:GetService("CoreGui"))
 
 local Tab1 = Window:CreateTab("Super Bomb Survival")
